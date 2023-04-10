@@ -1,0 +1,12 @@
+psutil
+cryptography
+requests
+pypiwin32
+wmi
+requests-toolbelt
+colorama
+pyinstaller
+pillow
+pycryptodome
+customtkinter
+tqdm
