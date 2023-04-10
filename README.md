@@ -43,7 +43,7 @@
 ## Install
 ```sh
 
-git clone 
+git clone https://github.com/Piraq/Piraq-DDoS.git
 
 Install Chrome (or update it lastest version)
  - wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
@@ -53,5 +53,7 @@ Install Chrome (or update it lastest version)
 
 ## Example
 ```sh
-Execute main.exe
+- Execute setup.bat 
+- Fill in .txt files in src
+- Execute start.bat
 ```
