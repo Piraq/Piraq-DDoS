@@ -34,6 +34,8 @@ intro = """
 """
 Anime.Fade(Center.Center(intro), Colors.cyan_to_blue, Colorate.Vertical, interval=0.035, enter=True)
 
+os.system("title Piraq DDoS Panel")
+
 import time
 
 for i in tqdm(range(100), desc="Loading Proxy"): 
