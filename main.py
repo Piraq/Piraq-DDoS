@@ -44,14 +44,16 @@ for i in tqdm(range(100), desc="Loading Proxy"):
 os.system(chromdriver)
 
 print (f"""
-       
-       
 
-Proxy Loaded : {proxy}
+Proxy Loaded : 
 
 """)   
 
-time.sleep(4)
+time.sleep(1.5)
+
+print (f"""{proxy}""")
+
+time.sleep(2)
 
 os.system('cls' if os.name=='nt' else 'clear')
 
